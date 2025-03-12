@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @ThiagoMauriGonzalez
+- 🎓 Graduating in Information Systems at PUC CAMPINAS
+
 - 👀 I’m interested in continue to deepen my knowledge in the technology area.
 - 🌱 I’m currently learning developing technical and analytical skills that integrate knowledge of programming, software development and data systems management.
 - 💞️ I’m looking to collaborate on impactful projects in the technology area.
