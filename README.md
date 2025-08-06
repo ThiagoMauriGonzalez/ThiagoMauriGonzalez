@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMauriGonzalez&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMauriGonzalez&show_icons=true&hide_rank=true&show_icons=true&theme=bear&count_private=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMauriGonzalez&show_icons=true&theme=bear&count_private=true&layout=compact"/>
 </div>
+
